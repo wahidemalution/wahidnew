@@ -15,12 +15,12 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
+    name: Wahid Husain
+    display_name: Wahid
+    gravatar: 48d52f2dee4a490af6b997076e8f26ae
+    email: wahidemalution@gmail.com
+    web: https://wahidemalution.com/
+    twitter: https://twitter.com/wahidemalution
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
