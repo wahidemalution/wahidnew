@@ -2,6 +2,7 @@
 layout: post
 title:  "We all wait for summer"
 categories: [ Jekyll, tutorial ]
+tags: [web, jekyll]
 image: assets/images/1.jpg
 featured: true
 ---
